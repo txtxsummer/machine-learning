@@ -1,6 +1,6 @@
 ## Index
 - [KNN Algorithm](#KNN-Algorithm)
-- Difference
+- [Difference](#Difference)
 
 ## KNN Algorithm
 blablabla
