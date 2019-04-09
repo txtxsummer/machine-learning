@@ -1,8 +1,8 @@
-# It is the start of clustering
+## Index
 
-Let's try the code
- 
-```python
-s = "Python syntax highlighting"
-print (s)
-```
+
+## KNN algorithm
+blablabla
+
+## Difference
+blablabla
