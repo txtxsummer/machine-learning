@@ -3,7 +3,6 @@ It is the start of clustering
 Let's try the code
 
 ```python
-import pandas as pd
-a = b + c
-print ("here is the number")
+s = "Python syntax highlighting"
+print s
 ```
