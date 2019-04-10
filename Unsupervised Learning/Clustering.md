@@ -8,7 +8,7 @@
 blablabla
 add something here 
 
-<a href="https://www.codecogs.com/eqnedit.php?latex=a=\frac{1}{2}c&plus;b_{\alpha}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a=\frac{1}{2}c&plus;b_{\alpha}" title="a=\frac{1}{2}c+b_{\alpha}" /></a>
+<div align="center"><a href="https://www.codecogs.com/eqnedit.php?latex=a=\frac{1}{2}c&plus;b_{\alpha}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a=\frac{1}{2}c&plus;b_{\alpha}" title="a=\frac{1}{2}c+b_{\alpha}" /></a>
 
 
 
