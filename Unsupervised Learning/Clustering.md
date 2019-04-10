@@ -4,8 +4,8 @@
 
 ## KNN Algorithm
 blablabla
-add something here
-$a=\frac12b$
+add something here 
+$$a=\frac12b$$
 
 ## Difference
 blablabla
