@@ -24,12 +24,20 @@
 - Flat or hierarchical
 	- Set of groups vs. taxonomy
 ## Popular Clustering Methods
-- K-D Trees
+- K-D trees
 	- Monothetic, hard boundaries, hierarchial
 <br/><br/>
 - K-means clustering
+	- Splits data into specified number if populations
+	- Polythetic, hard boundaries, flat
+<br/><br/>
+- Gaussian mixtures (EM algorithm)
+	- Fits a mixture of K Gaussians to the data
+	- Polythetic, soft boundaries, flat
+<br/><br/>
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Nzg3MDkyLC0xMzMyODE1NTc4XX0=
+eyJoaXN0b3J5IjpbLTEzOTExNjgwMCwtMTMzMjgxNTU3OF19
 -->
