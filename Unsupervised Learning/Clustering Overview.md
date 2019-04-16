@@ -23,8 +23,13 @@
 <br/><br/>
 - Flat or hierarchical
 	- Set of groups vs. taxonomy
+## Popular Clustering Methods
+- K-D Trees
+	- Monothetic, hard boundaries, hierarchial
+<br/><br/>
+- K-means clustering
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwOTg3NzkwNiwtMTMzMjgxNTU3OF19
+eyJoaXN0b3J5IjpbLTk2Nzg3MDkyLC0xMzMyODE1NTc4XX0=
 -->
