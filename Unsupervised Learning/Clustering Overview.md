@@ -14,11 +14,15 @@
 		- E.g. all are males aged 20-35, or all have X% response to test B
 	- Polythetic: cluster members are similar to each other
 		- Distance between elements defines membership
+<br/><br/>
 - Overlap
 	- Hard clustering: clusters do not overlap
+		- Element either belongs to a cluster or not
+	- Soft clustering: clusters may overlap
+		- “strength of association” between element and cluster
+	
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzQ5MzY0ODQsLTEzMzI4MTU1NzhdfQ
-==
+eyJoaXN0b3J5IjpbMTgxMDAwNjY1MiwtMTMzMjgxNTU3OF19
 -->
