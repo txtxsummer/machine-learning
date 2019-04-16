@@ -35,9 +35,11 @@
 	- Fits a mixture of K Gaussians to the data
 	- Polythetic, soft boundaries, flat
 <br/><br/>
-
+- Agglomerative clustering
+	- Creates an “ontology” of nested sub-populations
+	- Polythetic, hard boundaries, hierarchical
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTExNjgwMCwtMTMzMjgxNTU3OF19
+eyJoaXN0b3J5IjpbLTUyNDc5Nzk3MiwtMTMzMjgxNTU3OF19
 -->
