@@ -12,9 +12,12 @@
 - Goal
 	- Monothetic: cluster members have some common property
 		- E.g. all are males aged 20-35, or all have X% response to test B
-		- 
+	- Polythetic: cluster members are similar to each other
+		- Distance between elements defines membership
+- Overlap
+	- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNDYxNjA3MCwtMTMzMjgxNTU3OF19
+eyJoaXN0b3J5IjpbLTY4ODI0MjYxOSwtMTMzMjgxNTU3OF19
 -->
