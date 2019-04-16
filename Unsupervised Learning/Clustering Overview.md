@@ -8,9 +8,13 @@
 	 - Do elements in a sub-population have any common properties?
 	 - Are sub-populations cohesive? Can they be further split up?
 	 - Are they outliers?
-	 - 
+## Types of Clustering Methods
+- Goal
+	- Monothetic: cluster members have some common property
+		- E.g. all are males aged 20-35, or all have X% response to test B
+		- 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NzA3MjA1MSwtMTMzMjgxNTU3OF19
+eyJoaXN0b3J5IjpbLTQyNDYxNjA3MCwtMTMzMjgxNTU3OF19
 -->
