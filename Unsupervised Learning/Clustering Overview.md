@@ -1,5 +1,6 @@
  - Discover the underlying structure of the data
-	 - Unsupervised task, not predicting anything specific<br/>
+	 - Unsupervised task, not predicting anything specific
+<br/>
  - What sub-populations exist in the data?
 	 - How many are there?
 	 - What are their sizes?
@@ -9,5 +10,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQxODU3NjIzLC0xMzMyODE1NTc4XX0=
+eyJoaXN0b3J5IjpbMTE0MTQ4NjU5NywtMTMzMjgxNTU3OF19
 -->
