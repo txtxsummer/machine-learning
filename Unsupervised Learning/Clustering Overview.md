@@ -15,9 +15,10 @@
 	- Polythetic: cluster members are similar to each other
 		- Distance between elements defines membership
 - Overlap
-	- 
+	- Hard clustering: clusters do not overlap
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4ODI0MjYxOSwtMTMzMjgxNTU3OF19
+eyJoaXN0b3J5IjpbLTE0NzQ5MzY0ODQsLTEzMzI4MTU1NzhdfQ
+==
 -->
