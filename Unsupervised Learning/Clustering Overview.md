@@ -20,9 +20,11 @@
 		- Element either belongs to a cluster or not
 	- Soft clustering: clusters may overlap
 		- “strength of association” between element and cluster
-	
+<br/><br/>
+- Flat or hierarchical
+	- Set of groups vs. taxonomy
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMDAwNjY1MiwtMTMzMjgxNTU3OF19
+eyJoaXN0b3J5IjpbMTcwOTg3NzkwNiwtMTMzMjgxNTU3OF19
 -->
