@@ -19,3 +19,9 @@ Different decision tree algorithms comparison
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.4929&rep=rep1&type=pdf
 
 https://pdfs.semanticscholar.org/fd39/e1fa85e5b3fd2b0d000230f6f8bc9dc694ae.pdf
+
+Example for Chi-Square
+
+https://clearpredictions.com/Home/DecisionTree
+
+https://www.displayr.com/how-is-splitting-decided-for-decision-trees/
