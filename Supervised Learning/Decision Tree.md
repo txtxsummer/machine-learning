@@ -9,3 +9,13 @@ https://sefiks.com/2018/05/13/a-step-by-step-c4-5-decision-tree-example/
 CART Tree
 
 https://sefiks.com/2018/08/27/a-step-by-step-cart-decision-tree-example/
+
+Regression Tree
+
+https://sefiks.com/2018/08/28/a-step-by-step-regression-decision-tree-example/
+
+Different decision tree algorithms comparison
+
+http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.685.4929&rep=rep1&type=pdf
+
+https://pdfs.semanticscholar.org/fd39/e1fa85e5b3fd2b0d000230f6f8bc9dc694ae.pdf
