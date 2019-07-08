@@ -40,3 +40,11 @@ Building a Movie Recommendation Service with Apache Spark & Flask - Part 1：
 
 https://www.codementor.io/jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw
 
+Build a recommendation engine from scratch for your university project
+
+https://medium.com/@rabinpoudyal1995/build-a-recommendation-engine-from-scratch-for-your-university-project-ef8cfecba5dd
+
+Machine Learning for Recommender systems — Part 1 (algorithms, evaluation and cold start):
+
+https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+
