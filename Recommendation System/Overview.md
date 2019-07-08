@@ -36,6 +36,14 @@ Movies Recommender System (Kaggle):
 
 https://www.kaggle.com/rounakbanik/movie-recommender-systems
 
+The Age of Recommender Systems (Kaggle):
+
+https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
+
+Recommender Systems in Python 101 (Kaggle):
+
+https://www.kaggle.com/gspmoreira/recommender-systems-in-python-101
+
 Building a Movie Recommendation Service with Apache Spark & Flask - Part 1：
 
 https://www.codementor.io/jadianes/building-a-recommender-with-apache-spark-python-example-app-part1-du1083qbw
@@ -47,4 +55,8 @@ https://medium.com/@rabinpoudyal1995/build-a-recommendation-engine-from-scratch-
 Machine Learning for Recommender systems — Part 1 (algorithms, evaluation and cold start):
 
 https://medium.com/recombee-blog/machine-learning-for-recommender-systems-part-1-algorithms-evaluation-and-cold-start-6f696683d0ed
+
+Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition):
+
+https://hackernoon.com/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75
 
